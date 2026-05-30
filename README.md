@@ -1,7 +1,7 @@
 # Hey, I'm Shivansh! 👋
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS+%7C+Terraform" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Docker;Kubernetes;Jenkins;AWS;Terraform" alt="Typing SVG" /></a>
 </p>
 
 ---
