@@ -1,11 +1,10 @@
-<p align="center">
+<div align="center">
 
 # Hey, I'm Shivansh! 👋
 
-</p>
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=500&color=2E9EF7&center=true&vCenter=true&width=600&lines=Docker;Kubernetes;Jenkins;AWS;Terraform" alt="Typing SVG" /></a>
-</p>
+
+</div>
 
 ---
 
